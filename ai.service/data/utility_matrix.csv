@@ -1,0 +1,5 @@
+Crop Coefficient stage,Temperature [_ C],Humidity [%],Soil moisture,Reference evapotranspiration,Evapotranspiration,Crop Coefficient,Nitrogen [mg/kg],Phosphorus [mg/kg],Potassium,Solar Radiation ghi,Wind Speed,pH
+0,28.64,81.23,285.24,283.78,123.44,0.44,105.53,37.47,51.92,342.93,1.71,3.6
+1,27.87,83.16,275.49,181.78,155.04,0.88,106.2,47.85,65.03,577.0,1.72,4.11
+2,25.05,77.07,406.11,547.14,446.5,1.14,89.53,74.8,89.79,375.67,2.62,4.53
+3,25.31,77.56,401.49,533.84,441.43,1.15,90.05,75.84,93.51,403.39,2.56,4.41

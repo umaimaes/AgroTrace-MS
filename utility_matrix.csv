@@ -1,0 +1,5 @@
+Crop Coefficient stage,Temperature [_ C],Humidity [%],Soil moisture,Nitrogen [mg/kg],Phosphorus [mg/kg],Potassium,pH,Solar Radiation ghi,Wind Speed
+0,25,70,40,100,50,150,6.5,500,2.0
+1,28,60,45,120,60,180,6.5,600,3.0
+2,30,55,50,130,65,200,6.5,650,3.5
+3,27,65,48,110,55,170,6.2,550,2.5
