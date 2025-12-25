@@ -1,6 +1,7 @@
 # farm_app
 
-A new Flutter project.
+DEMO VIDEO:
+https://drive.google.com/file/d/1p8NAm1Ia-hQn9OKOqS24UxXhaqpiYYOD/view?usp=sharing
 
 ## Getting Started
 
